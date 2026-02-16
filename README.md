@@ -129,7 +129,6 @@ Orientacyjny skrót:
 Repo zawiera:
 
 - `.vscode/extensions.json` - VSCode podpowie instalację właściwych rozszerzeń.
-- `.vscode/settings.json` - ustawienia VSCode.
 
 ### Styl plików
 
