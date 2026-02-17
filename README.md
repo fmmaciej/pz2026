@@ -145,4 +145,5 @@ Repo zawiera `.editorconfig`, żeby:
 
 ## Licencja / prawa autorskie
 
-Kod i notatki są materiałem edukacyjnym `pz2026`. Jeśli ustalimy licencję, dopiszemy ją w LICENSE.
+**Code** (e.g. `journal/`, `lab/`, configuration files intended as code) is licensed under **MIT**.
+**Documentation** and educational materials (e.g. `docs/`, `README.md`) are licensed under **CC BY 4.0**.
