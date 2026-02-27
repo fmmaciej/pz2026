@@ -48,7 +48,7 @@ Raport ma zawierać (w tej kolejności):
 ## Konwencja plików
 
 - katalog raportów: `./audits/`
-- nazwa pliku: `audit_\<hostname>_YYYY-MM-DD_HHMMSS.txt`
+- nazwa pliku: `audit_<hostname>_YYYY-MM-DD_HHMMSS.txt`
 
 ## Przykład
 
